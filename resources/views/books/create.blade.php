@@ -49,14 +49,7 @@
                                class="form-control"
                         />
                     </div>
-                    <div class="form-group">
-                        <label for="image">Image<span class="required">*</span> </label>
-                        <input type="file"
-                               required
-                               name="select_image"
-                               class="form-control"
-                        />
-                    </div>
+                    
                     <div class="form-group">
                         <input type="submit" class="btn btn-primary" value="Create">
                     </div>
