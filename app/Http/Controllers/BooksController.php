@@ -43,7 +43,6 @@ class BooksController extends Controller
                 'description'=>$request ->input('description'),
                 'price'=>$request ->input('price'),
                 'author'=>$request ->input('author'),
-                'image'=>$request ->input('image'),
             ]);
 
             if ($book){
